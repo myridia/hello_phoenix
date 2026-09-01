@@ -1,3 +1,5 @@
+<img src="hello_phoenix.svg" alt="hello_phoenix" width="120">
+
 # Hello Phoenix
 
 ### Clone via https
